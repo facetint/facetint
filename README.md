@@ -1,7 +1,5 @@
-### Hi there 👋
 
 ## 👩🏼‍💻 Tech Stack:
-
 <p align="left">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />
