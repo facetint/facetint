@@ -12,5 +12,5 @@
 
 <a href = "https://www.linkedin.com/in/fatmanur-%C3%A7etinta%C5%9F-715a2926a/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/fatmanur.cetintas12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "[mailto:fatmanurcetintas7@gmail.com](mailto:fatmanurcetintas7@gmail.com)"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
+<a href = "mailto:fatmanurcetintas7@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
 </p>
