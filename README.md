@@ -7,7 +7,7 @@
 <img width="40" src="https://user-images.githubusercontent.com/61319844/156958898-1f821b0d-21a8-444c-bc01-3cc3f49a44e8.png" />
 </p>
 
-## 🌼 Connect with me! 🌼
+## Connect with me!
 <p align="left">
 
 <a href = "[https://www.linkedin.com/in/fatmanur-çetintaş-715a2926a/](https://www.linkedin.com/in/fatmanur-%C3%A7etinta%C5%9F-715a2926a/)"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
