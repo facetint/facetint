@@ -9,10 +9,10 @@ A passionate Systems & Full-Stack Developer specialized in C/C++, TypeScript, an
 
 Experienced in building high-performance, scalable software solutions from low-level systems programming to full-stack web applications. I specialize in:
 
-- Systems programming with **C/C++**, using **socket programming**,  **pthreads**, and **mutexes**
-- Web development with **TypeScript**, **JavaScript**, **Node.js**, **Fastify**, and **PHP**
-- Architecting **containerized infrastructure** using **Docker Compose**, including services like **NGINX**, **PHP-FPM**, and **MariaDB**
-- Developing modern **single-page applications (SPA)** with secure API integrations
+- 🖥️ **Systems programming** with **C/C++**, using socket programming, pthreads, and mutexes  
+- 🌐 **Web development** with **TypeScript**, **JavaScript**, **Node.js**, **Fastify**, and **PHP**  
+- 🐳 **Architecting containerized infrastructure** using **Docker Compose**, including services like **NGINX**, **PHP-FPM**, **MariaDB**, and **WordPress**  
+- ⚡ **Developing modern single-page applications (SPA)** with secure API integrations
 
 
 ## ⚙️ Tech Stack
