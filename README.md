@@ -30,6 +30,14 @@ Experienced in building high-performance, scalable software solutions from low-l
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=facetint&show_icons=true&theme=radical" alt="Fatmanur's GitHub Stats" />
+</p>
+
+---
+
 ## 🔗 Connect with me!
 
 <p align="left">
