@@ -17,12 +17,12 @@ Experienced in building high-performance, scalable software solutions from low-l
 ## ⚙️ Tech Stack  
 
 <p align="center">
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" />
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" />
-  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
+  <img src="https://cdn.simpleicons.org/c/00599C" height="50" alt="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="50" alt="C++" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="Docker" />
 </p>
 
 ---
