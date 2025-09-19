@@ -14,32 +14,32 @@ Experienced in building high-performance, scalable software solutions from low-l
 - 🐳 **Architecting containerized infrastructure** using **Docker Compose**, including services like **NGINX**, **PHP-FPM**, **MariaDB**, and **WordPress**  
 - ⚡ **Developing modern single-page applications (SPA)** with secure API integrations
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack  
 
-<p align="left">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
-
+<p align="center">
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=facetint&show_icons=true&theme=radical" alt="Fatmanur's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=facetint&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facetint&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
-## 🔗 Connect with me!
+## 🌐 Connect with Me  
 
-<p align="left">
-  <a href="https://linkedin.com/in/fatmanurcetintas/" alt="LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/fatmanur.cetintas12/" alt="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="mailto:fatmanurcetintas7@gmail.com" alt="Email"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/fatmanurcetintas/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/fatmanur.cetintas12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:fatmanurcetintas7@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email"/></a>
 </p>
