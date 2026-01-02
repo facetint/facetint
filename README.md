@@ -49,11 +49,8 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=facetint&show_icons=true&theme=dark&hide_border=true" alt="Fatmanur's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facetint&layout=compact&theme=dark&hide_border=true" alt="Fatmanur's Top Languages" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=facetint&show_icons=true&theme=dark&hide_border=true&locale=en" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facetint&layout=compact&theme=dark&hide_border=true&locale=en" alt="Top Languages" height="165" />
+</p>
 </div>
