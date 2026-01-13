@@ -47,10 +47,3 @@
 
 <br />
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facetint&show_icons=true&theme=dark&hide_border=true&locale=en" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facetint&layout=compact&theme=dark&hide_border=true&locale=en" alt="Top Languages" height="165" />
-</p>
-</div>
